@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(../img/tweed.png);
+}
+
+#satu {
+    width: 800px;
+    height: 130px;
+    margin-left: 130px;
+    background-color: #9168b3;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+#satu p {
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+}
+
+#satu img {
+    float: left;
+    width: 120px;
+    height: auto;
+    margin-right: 10px;
+}
+
+#dua {
+    width: 800px;
+    height: 130px;
+    margin-left: 450px;
+    background-color: #a8b368;
+    margin-top: 20px;
+}
+
+#dua p {
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-left: 20px;
+    padding-top: 22px;
+}
+
+#dua img {
+    float: right;
+    width: 120px;
+    height: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#tiga {
+    width: 800px;
+    height: 130px;
+    margin-left: 130px;
+    background-color: #b36c68;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+#tiga p {
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+}
+
+#tiga img {
+    float: left;
+    width: 120px;
+    height: auto;
+    margin-right: 10px;
+}
+
+#empat {
+    width: 800px;
+    height: 130px;
+    margin-left: 450px;
+    background-color: #8b8989;
+    margin-top: 20px;
+}
+
+#empat p {
+    text-align: justify;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-left: 20px;
+    padding-top: 22px;
+}
+
+#empat img {
+    float: right;
+    width: 120px;
+    height: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+}
